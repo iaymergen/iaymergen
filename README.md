@@ -37,6 +37,6 @@ Sonder, E., **Aymergen, İ. G.**, et al. *Large-scale prediction of transcriptio
 
 ### Skills
 
-Python · SQL · R · C/C++ · Java · JavaScript · scikit-learn · XGBoost · PyTorch · Optuna · LLM agents · Snakemake · Docker · HPC · MySQL · Git
+Python · SQL · R · C/C++ · Java · Optuna · LLM agents · Snakemake · Docker · HPC · MySQL · Git
 
 [LinkedIn](https://www.linkedin.com/in/ipek-gunes-aymergen/) · [Email](mailto:ipekaymergen2@gmail.com)
