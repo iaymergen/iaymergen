@@ -1,6 +1,6 @@
 ## İpek Güneş Aymergen
 
-Computer Engineering student at Istanbul Technical University. I build data pipelines and ML systems that hold up at scale, and I've worked in both research and production, from genomic datasets to financial ones. I'm most interested in research at the intersection of computing, data and the life sciences.
+Computer Engineering student at Istanbul Technical University. I build data pipelines and ML systems that hold up at scale, and I've worked in both research and production, from genomic datasets to financial ones. I'm interested in research at the intersection of computing, data and the life sciences.
 
 ### Experience
 
