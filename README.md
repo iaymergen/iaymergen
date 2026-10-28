@@ -11,7 +11,7 @@ Computer Engineering student at Istanbul Technical University. I build data pipe
 - Built Metadata Agent, an LLM agent pipeline that extracts sample metadata from scientific papers and database records.
 - Built a hand-annotated ground truth and benchmarked three models (Gemini 2.5 Flash, Nemotron via OpenRouter, and TU Delft's own LLM, Tulip), reaching about 77% average accuracy on four test papers.
 
-**Prometeia** · Junior Data Scientist · Feb – Jun 2026
+**Prometeia** · Junior Machine Learning Engineer · Feb – Jun 2026
 - Built a modular data quality pipeline for financial datasets from SQL and Parquet sources: statistical profiling, IQR outlier detection, CSI/PSI drift monitoring and correlation analysis.
 - Built the feature shortlist for a credit limit assignment model, using correlation filtering and feature importance scoring.
 - Designed a fraud detection benchmark on 590K transactions, comparing Isolation Forest, COPOD and an autoencoder against XGBoost. Three-stage feature selection cut 486 features to 33, and models were tested on a time-ordered out-of-time split ([code](https://github.com/iaymergen/outlier-detection)).
